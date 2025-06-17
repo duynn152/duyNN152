@@ -22,7 +22,7 @@
 ## 👨🏻‍💻 About Me
 ```yaml
 name: duynn
-location: Vietnam
+location: Ho Chi Minh
 current_job: Developer
 education: FPT University
   <>
