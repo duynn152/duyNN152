@@ -33,7 +33,7 @@ fields_of_interests:
   <>
     "Modern Front-End Frameworks (React, Vue, Svelte)",
     "Web Development",
-    "AI-Powered Web Interfaces"
-    "UI/UX",
+    "AI-Powered Web Interfaces",
+    "UI/UX"
   </>
 ```
