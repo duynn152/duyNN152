@@ -21,13 +21,13 @@
 
 ## 👨🏻‍💻 About Me
 ```yaml
-name: duynn
+name: Duy
 location: HoChiMinh City
 current_job: Developer
 education: FPT University
   <>
     "FPT University - Software Engineering",
-    "Self-study Full-stack Web development & UX Thinking"
+    "Self-study Full-stack Web development"
   </>
 fields_of_interests:
   <>
