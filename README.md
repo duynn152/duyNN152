@@ -23,7 +23,7 @@
 ```yaml
 name: Duy
 location: HoChiMinh City
-current_job: Developer
+current_job: Frontend Developer
 education: FPT University
   <>
     "FPT University - Software Engineering",
