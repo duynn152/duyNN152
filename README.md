@@ -1,39 +1,13 @@
-# <div align="center">WELCOME TO MY GITHUB 📝</div>
+# Hi there, I'm Duy
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN6cmdvdmZxZ3lxaDJld210dHY5NzgzZHJqNWEwMDJ6d212ZzNjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif"/>
-  <br></br>
-</div>
+Frontend Developer based in Ho Chi Minh City, Vietnam. Currently studying Software Engineering at FPT University while working as a Frontend Developer and self-learning Full-stack Web Development. Passionate about Modern Front-End Frameworks (React, Tailwind), AI-Powered Web Interfaces, and UI/UX Design.
 
-<div align="center">
-  <a href="https://www.facebook.com/nnd152">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:nguyenngocduyy152@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/duynn152">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+## Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nnd152)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenngocduyy152@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duynn152)
 
 ---
 
-## 👨🏻‍💻 About Me
-```yaml
-name: Duy
-location: HoChiMinh City
-current_job: Frontend Developer
-education: FPT University
-  <>
-    "FPT University - Software Engineering",
-    "Self-study Full-stack Web development"
-  </>
-fields_of_interests:
-  <>
-    "Modern Front-End Frameworks (React, Vue, Svelte)",
-    "Web Development",
-    "AI-Powered Web Interfaces",
-    "UI/UX"
-  </>
-```
+From [duynn152](https://github.com/duynn152)
