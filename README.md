@@ -1,6 +1,6 @@
 # Hi there, I'm Duy
 
-Frontend Developer based in Ho Chi Minh City, Vietnam. Currently studying Software Engineering at FPT University while working as a Frontend Developer and self-learning Full-stack Web Development. Passionate about Modern Front-End Frameworks (React, Tailwind), AI-Powered Web Interfaces, and UI/UX Design.
+Frontend Developer based in Ho Chi Minh City, Vietnam. Currently pursuing a Bachelor's degree in Software Engineering at FPT University while working as a Frontend Developer and expanding my expertise in Full-stack Web Development. Passionate about building modern, user-friendly web applications using React, Tailwind CSS, and AI-powered technologies, with a strong interest in UI/UX design and creating intuitive digital experiences.
 
 ## Connect with Me
 
