@@ -8,4 +8,6 @@ I'm a Software Engineering student at FPT University in Ho Chi Minh City, Vietna
 
 ### Contact
 
+Open to frontend and mobile development opportunities.
+
 Email: [nn.duyy152@gmail.com](mailto:nn.duyy152@gmail.com)
